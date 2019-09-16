@@ -3,7 +3,7 @@
         <h1>{{ header }}</h1>
         <div v-html="text"></div>
         <ul class="icons">
-            <li><a :href="twitter" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+            <li><a :href="twitter" class="icon fa-twitter"><span class="label">Twitter - test</span></a></li>
             <li><a :href="instagram" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
             <li><a :href="github" class="icon fa-github"><span class="label">Github</span></a></li>
             <li><a :href="email" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
